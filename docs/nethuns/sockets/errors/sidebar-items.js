@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["NethunsBindError","NethunsFlushError","NethunsOpenError","NethunsPcapOpenError","NethunsPcapReadError","NethunsPcapRewindError","NethunsPcapStoreError","NethunsPcapWriteError","NethunsRecvError","NethunsSendError"]};
